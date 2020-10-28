@@ -14,5 +14,5 @@ if you use this code because I forgot to design a reset button :(
 `
 
 ## Some details
+You may need to draw a picture use Excel (like this image) to find relationship between OD620 and values you received from sensor, the relationship could be strongly effected by light intensity of your LED and shape of your fermentation container. Please make sure you have got a right function.
 ![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/Relationship%20between%20OD620%20and%20sensor%20value.png)
-
