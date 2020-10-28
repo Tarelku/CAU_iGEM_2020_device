@@ -9,7 +9,8 @@ I've list Pinouts in this picture, you can change them or just inserts wires in 
 You can find our device description in our iGEM wiki page: https://   
 
 ```
-**You need to restart (shut the device down) to reset NTU[] counter and green light if you use this code because I forgot to design a reset button :(**
+**You need to restart (shut the device down) to reset NTU[] counter and green light 
+if you use this code because I forgot to design a reset button :(**
 ```
 
 ## Some details
