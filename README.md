@@ -3,3 +3,5 @@ This is code for our optogenetic autometed control system device this year. Hope
 ## Second
 ![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/Relationship%20between%20OD620%20and%20sensor%20value.png)
 ### Third
+![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/Relationship%20between%20OD620%20and%20sensor%20value.png “Relationship between OD620 and sensor value”)
+
