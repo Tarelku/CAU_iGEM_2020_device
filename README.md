@@ -6,7 +6,10 @@ Hope this will help anyone who wants to build their own fermentation device.
 For green hands, first you need to buy an arduino or any other hardware which can run this code. After this, you need to design your own device and assemble it (you can find many of those "how to do" webs using google).   
 I've list Pinouts in this picture, you can change them or just inserts wires in corresponding Pinouts.  
 ![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/hubs.jpg)  
-You can find our device description in our iGEM wiki page: https://  
+You can find our device description in our iGEM wiki page: https://   
+
+Notice:
+=====
 **You need to restart (shut the device down) to reset NTU[] counter and green light if you use this code because I forgot to design a reset button :(**
 
 ## Some details
