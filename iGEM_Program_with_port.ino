@@ -3,6 +3,7 @@
 #include <math.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
+//DallasTemperature.h and OneWire.h must to be included, you can download them form arduino.
 
 int BH1750address = 0x23;//BH1750 I2C address
 byte buff[2];
