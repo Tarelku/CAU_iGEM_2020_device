@@ -5,7 +5,13 @@ Hope this will help anyone who wants to build their own fermentation device.
 ## How to use this code
 For green hands, first you need to buy an arduino or any other hardware which can run this code. After this, you need to design your own device and assemble it (you can find many of those "how to do" webs using google).   
 I've list Pinouts in this picture, you can change them or just inserts wires in corresponding Pinouts.  
-![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/hubs.jpg)  
+![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/hubs.jpg)    
+
+And here is pictures of the device.
+![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/be04ff14c0290fc2d9ca8859af4ed2f.jpg)
+![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/f7dc8356b0b125a9f8a8b15605f5149.jpg)
+![](https://github.com/Tarelku/CAU_iGEM_2020_device/blob/main/img/9af0cff08ac67bf3258a259504226bd.jpg)  
+
 You can find our device description in our iGEM wiki page: https://2020.igem.org/Team:CAU_China
 
 `
